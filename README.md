@@ -1,5 +1,5 @@
 # Awesome-Train-Prediction
-Resources in recent years about railway time prediction have been collected in this repository. 
+Resources in recent years about railway freight time prediction have been collected in this repository. 
 The content includes papers, datasets and other information related to them.
 ## Papers
 * 2021
@@ -15,6 +15,8 @@ The content includes papers, datasets and other information related to them.
     Published in: 2020 IEEE 23rd International Conference on Intelligent Transportation Systems
     3. [] [An ETA Prediction Model for Intermodal Transport Networks Based on Machine Learning](https://core.ac.uk/download/pdf/351022389.pdf) \
     Published in: Business & Information Systems Engineering 2020
+    4. [] [Modeling train operation as sequences: A study of delay prediction with operation and weather data](https://www.researchgate.net/profile/Ping-Huang-12/publication/343138119_Modeling_train_operation_as_sequences_A_study_of_delay_prediction_with_operation_and_weather_data/links/6018505892851c2d4d0d8eae/Modeling-train-operation-as-sequences-A-study-of-delay-prediction-with-operation-and-weather-data.pdf) \
+    Published in: Transportation Research Part E: logistics and transportation review
 
 * 2019
     1. [KDD] [Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning](https://zhangjunbo.org/pdf/2019_KDD_STMetaNet.pdf) \
@@ -27,7 +29,8 @@ The content includes papers, datasets and other information related to them.
     Published in: Cluster Computing 2019
     5. [] [Realization of ETA Predictions for Intermodal Logistics Networks Using Artificial Intelligence.](https://www.researchgate.net/profile/Oliver-Pwaka-2/publication/331323588_Liquid_Petroleum_Gas_Supply_Chain_Challenges_in_Rural_Medical_Facilities_in_Zimbabwe_13th_EAI_International_Conference_TridentCom_2018_Shanghai_China_December_1-3_2018_Proceedings/links/5d6535d392851c619d7995f8/Liquid-Petroleum-Gas-Supply-Chain-Challenges-in-Rural-Medical-Facilities-in-Zimbabwe-13th-EAI-International-Conference-TridentCom-2018-Shanghai-China-December-1-3-2018-Proceedings.pdf#page=172) \
     Published in: Interdisciplinary Conference on Production, Logistics and Traffic 2019
-
+    6. [ICCAIS] [Russian Freight Flights Time Prediction](https://ieeexplore.ieee.org/abstract/document/8769522) \
+    Published in: 2019 2nd International Conference on Computer Applications & Information Security
 
     
 * 2018
