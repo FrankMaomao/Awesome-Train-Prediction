@@ -1,5 +1,5 @@
 # Awesome-Train-Prediction
-Resources in recent years about railway freight time prediction have been collected in this repository. 
+Resources in recent years about railway time prediction have been collected in this repository. 
 The content includes papers, datasets and other information related to them.
 ## Papers
 * 2021
@@ -7,7 +7,7 @@ The content includes papers, datasets and other information related to them.
     Published in: 2021 IEEE International Intelligent Transportation Systems Conference (ITSC)
     2. [] [Near-term train delay prediction in the Dutch railways network](https://www.researchgate.net/profile/Zhongcan-Li/publication/346912362_Near-term_train_delay_prediction_in_the_Dutch_railways_network/links/6044c91b4585154e8c814d9f/Near-term-train-delay-prediction-in-the-Dutch-railways-network.pdf) \
     Published in: International Journal of Rail Transportation \
-    Dataset: <https://connect.informs.org/railway-applications/new-item3/problem-solving-competition681/new-item12>
+    Dataset: [2018 RAS Problem Solving Competition: Train Delay Forecasting](https://connect.informs.org/railway-applications/new-item3/problem-solving-competition681/new-item12)
 * 2020
     1. [KDD] [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](http://shichuan.org/hin/topic/2020.HetETA-%20Heterogeneous%20Information%20Network%20Embedding%20for%20Estimating%20Time%20of%20Arrival.pdf) \
     Published in: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining August 2020
@@ -39,7 +39,7 @@ The content includes papers, datasets and other information related to them.
     2. [ITSC] [On the Data-Driven Prediction of Arrival Times for Freight Trains on U.S. Railroads](https://scopelab.ai/files/Barbour2018.pdf) \
     Published in: 2018 21st International Conference on Intelligent Transportation Systems \
     Dataset: From CSX
-    3. [] [Prediction of arrival times of freight traffic on US railroads using support vector regression.](https://core.ac.uk/download/pdf/158321949.pdf)
+    3. [] [Prediction of arrival times of freight traffic on US railroads using support vector regression.](https://core.ac.uk/download/pdf/158321949.pdf) \
     Published in: Transportation Research Part C: Emerging Technologies
 
 * 2015
