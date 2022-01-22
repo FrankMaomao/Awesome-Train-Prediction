@@ -33,6 +33,8 @@ The content includes papers, datasets and other information related to them.
     Published in: 2019 2nd International Conference on Computer Applications & Information Security
     7. [ITSC] [Punctuality prediction: combined probability approach and random forest modelling with railway delay statistics in Sweden*](https://www.researchgate.net/profile/Sida-Jiang-3/publication/337627220_Punctuality_prediction_combined_probability_approach_and_random_forest_modelling_with_railway_delay_statistics_in_Sweden/links/5eb2a96992851cbf7fa95ba0/Punctuality-prediction-combined-probability-approach-and-random-forest-modelling-with-railway-delay-statistics-in-Sweden.pdf) \
     Published in: 2019 IEEE Intelligent Transportation Systems Conference
+    8. [CAIE] [A Hybrid Bayesian Network Model for Predicting Delays in Train Operations](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15617/1-s2.0-S0360835218301025-main.pdf?sequence=1&isAllowed=n) \
+    Published in: Computers & Industrial Engineering
 
 
     
@@ -74,3 +76,4 @@ The content includes papers, datasets and other information related to them.
 |TR_C||<https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies>||
 |TR_E||<https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review>||
 |CC||<https://www.springer.com/journal/10586/>||
+|CAIE||https://www.journals.elsevier.com/computers-and-industrial-engineering|
