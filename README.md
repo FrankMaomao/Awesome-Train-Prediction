@@ -17,6 +17,8 @@ The content includes papers, datasets and other information related to them.
     Published in: Business & Information Systems Engineering 2020
     4. [TR_E] [Modeling train operation as sequences: A study of delay prediction with operation and weather data](https://www.researchgate.net/profile/Ping-Huang-12/publication/343138119_Modeling_train_operation_as_sequences_A_study_of_delay_prediction_with_operation_and_weather_data/links/6018505892851c2d4d0d8eae/Modeling-train-operation-as-sequences-A-study-of-delay-prediction-with-operation-and-weather-data.pdf) \
     Published in: Transportation Research Part E: logistics and transportation review
+    5. [ICTON] [Traffic Prediction in Optical Networks Using Graph Convolutional Generative Adversarial Networks](https://www.researchgate.net/profile/Michal-Aibin/publication/343151019_Traffic_Prediction_in_Optical_Networks_Using_Graph_Convolutional_Generative_Adversarial_Networks/links/5f190d2e299bf1720d5c980d/Traffic-Prediction-in-Optical-Networks-Using-Graph-Convolutional-Generative-Adversarial-Networks.pdf) \
+    Published in: 2020 22nd International Conference on Transparent Optical Networks (ICTON)
 
 * 2019
     1. [KDD] [Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning](https://zhangjunbo.org/pdf/2019_KDD_STMetaNet.pdf) \
@@ -67,6 +69,7 @@ The content includes papers, datasets and other information related to them.
 |ICCAIS||<https://www.iccais.tech>|Feb.20th|
 |ICROMA||<http://www.iaror.org/new/en/conferences>|2023?|
 |ICPLT||<https://itl.mb.tu-dortmund.de/institut/veranstaltungen/detailansicht-veranstaltungen/icplt-6th-interdisciplinary-conference-on-production-logistics-and-traffic-8942/>||
+|ICTON||<https://www.itl.waw.pl/en/conferences/icton>||
 
 ## Journals
 ||Level|Official Website|2022 Submission Deadline|
