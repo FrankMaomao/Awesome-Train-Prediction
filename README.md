@@ -1,6 +1,9 @@
 # Awesome-Train-Prediction
 Resources in recent years about railway time prediction have been collected in this repository. 
 The content includes papers, datasets and other information related to them.
+
+---
+
 ## Papers
 * 2021
     1. [ITSC] [Train arrival delay prediction based on spatial-temporal graph convolutional network to sequence model](https://ieeexplore.ieee.org/abstract/document/9564600) \
@@ -19,6 +22,8 @@ The content includes papers, datasets and other information related to them.
     Published in: Transportation Research Part E: logistics and transportation review
     5. [ICTON] [Traffic Prediction in Optical Networks Using Graph Convolutional Generative Adversarial Networks](https://www.researchgate.net/profile/Michal-Aibin/publication/343151019_Traffic_Prediction_in_Optical_Networks_Using_Graph_Convolutional_Generative_Adversarial_Networks/links/5f190d2e299bf1720d5c980d/Traffic-Prediction-in-Optical-Networks-Using-Graph-Convolutional-Generative-Adversarial-Networks.pdf) \
     Published in: 2020 22nd International Conference on Transparent Optical Networks (ICTON)
+    6. [AAAI] [Spatio-Temporal Graph Structure Learning for Traffic Forecasting](https://ojs.aaai.org//index.php/AAAI/article/view/5470) \
+    Published in: Proceedings of the AAAI Conference on Artificial Intelligence
 
 * 2019
     1. [KDD] [Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning](https://zhangjunbo.org/pdf/2019_KDD_STMetaNet.pdf) \
@@ -37,8 +42,6 @@ The content includes papers, datasets and other information related to them.
     Published in: 2019 IEEE Intelligent Transportation Systems Conference
     8. [CAIE] [A Hybrid Bayesian Network Model for Predicting Delays in Train Operations](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15617/1-s2.0-S0360835218301025-main.pdf?sequence=1&isAllowed=n) \
     Published in: Computers & Industrial Engineering
-
-
     
 * 2018
     1. [KDD] [Learning to Estimate the Travel Time](https://dl.acm.org/doi/10.1145/3219819.3219900) \
@@ -60,9 +63,12 @@ The content includes papers, datasets and other information related to them.
     1. [TR_C] [A delay propagation algorithm for large-scale railway traffic networks](https://www.sciencedirect.com/science/article/abs/pii/S0968090X10000124) \
     Published in: Transportation Research Part C: Emerging Technologies
 
+---
+
 ## Conferences
 ||Level|Official Website|2022 Submission Deadline|
 |:-:|:-:|:-:|:-:|
+|AAAI|A|<https://aaai.org/Conferences/AAAI-22/>|Expired|
 |KDD|A|<https://dl.acm.org/doi/proceedings/10.1145/3447548>|Expired|
 |ITSC||<https://ieee-itss.org/event/itsc2022>|Mar. 1st|
 |CIKM|B|<https://dl.acm.org/conference/cikm>||
@@ -70,6 +76,8 @@ The content includes papers, datasets and other information related to them.
 |ICROMA||<http://www.iaror.org/new/en/conferences>|2023?|
 |ICPLT||<https://itl.mb.tu-dortmund.de/institut/veranstaltungen/detailansicht-veranstaltungen/icplt-6th-interdisciplinary-conference-on-production-logistics-and-traffic-8942/>||
 |ICTON||<https://www.itl.waw.pl/en/conferences/icton>||
+
+---
 
 ## Journals
 ||Level|Official Website|2022 Submission Deadline|
